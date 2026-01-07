@@ -1,0 +1,112 @@
+{
+  "plans": [
+    {
+      "name": "249 Mega (Promo)",
+      "speedMbps": 249,
+      "price": 59.99,
+      "promotional": true,
+      "promoNote": "6 primeiros meses. Depois R$ 74,99",
+      "order": 0,
+      "active": true
+    },
+    {
+      "name": "299 Mega",
+      "speedMbps": 299,
+      "price": 79.99,
+      "promotional": false,
+      "order": 1,
+      "active": true
+    },
+    {
+      "name": "399 Mega",
+      "speedMbps": 399,
+      "price": 89.99,
+      "promotional": false,
+      "order": 2,
+      "active": true
+    },
+    {
+      "name": "599 Mega",
+      "speedMbps": 599,
+      "price": 99.99,
+      "promotional": false,
+      "order": 3,
+      "active": true
+    },
+    {
+      "name": "799 Mega",
+      "speedMbps": 799,
+      "price": 129.99,
+      "promotional": false,
+      "order": 4,
+      "active": true
+    }
+  ],
+  "coverage-cities": [
+    {
+      "uf": "MG",
+      "city": "São Sebastião do Paraíso",
+      "active": true,
+      "notes": "Cidade inicial"
+    }
+  ],
+  "banners": [
+    {
+      "slot": 1,
+      "title": "Internet premium de verdade",
+      "subtitle": "Baixa latência, estabilidade e experiência superior.",
+      "ctaText": "Ver planos",
+      "ctaLink": "/planos",
+      "active": true
+    },
+    {
+      "slot": 2,
+      "title": "Qualidade de rede",
+      "subtitle": "Projeto robusto para streaming, trabalho e games.",
+      "ctaText": "Consultar cobertura",
+      "ctaLink": "/cobertura",
+      "active": true
+    },
+    {
+      "slot": 3,
+      "title": "Wi‑Fi Mesh (opcional)",
+      "subtitle": "Casa toda conectada com roaming inteligente.",
+      "ctaText": "Falar no WhatsApp",
+      "ctaLink": "/contato",
+      "active": true
+    },
+    {
+      "slot": 4,
+      "title": "Promo 249 Mega",
+      "subtitle": "R$ 59,99 por 6 meses (depois R$ 74,99).",
+      "ctaText": "Quero essa oferta",
+      "ctaLink": "/planos",
+      "active": true
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Rede robusta",
+      "description": "Engenharia focada em estabilidade e performance.",
+      "order": 1,
+      "active": true
+    },
+    {
+      "title": "Wi‑Fi Mesh",
+      "description": "Cobertura Wi‑Fi uniforme com roaming.",
+      "order": 2,
+      "active": true
+    },
+    {
+      "title": "Suporte ágil",
+      "description": "Atendimento via WhatsApp e foco em primeira solução.",
+      "order": 3,
+      "active": true
+    }
+  ],
+  "site-setting": {
+    "brandName": "NEWVOX Fibra",
+    "whatsappE164": "+5535966666666",
+    "ixcPortalUrl": "https://ixc.newvox.com.br"
+  }
+}

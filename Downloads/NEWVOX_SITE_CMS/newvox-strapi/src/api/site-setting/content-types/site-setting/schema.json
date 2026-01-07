@@ -1,0 +1,36 @@
+{
+  "kind": "singleType",
+  "collectionName": "site_settings",
+  "info": {
+    "singularName": "site-setting",
+    "pluralName": "site-settings",
+    "displayName": "Configuração do Site",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "brandName": {
+      "type": "string",
+      "default": "NEWVOX Fibra"
+    },
+    "whatsappE164": {
+      "type": "string",
+      "default": "+5535966666666"
+    },
+    "ixcPortalUrl": {
+      "type": "string",
+      "default": "https://ixc.newvox.com.br"
+    },
+    "primaryColor": {
+      "type": "string",
+      "default": "#FF8A00"
+    },
+    "accentColor": {
+      "type": "string",
+      "default": "#FFD55F"
+    }
+  }
+}
