@@ -2,8 +2,8 @@
 
 module.exports = {
   routes: [
-    // Single Type: não usa :id
-    { method: 'GET', path: '/site-settings', handler: 'api::site-setting.site-setting.find' },
-    { method: 'PUT', path: '/site-settings', handler: 'api::site-setting.site-setting.update' },
+    // Single Type: sem :id
+    { method: 'GET', path: '/site-settings', handler: 'site-setting.find' },
+    { method: 'PUT', path: '/site-settings', handler: 'site-setting.update' },
   ],
 };
